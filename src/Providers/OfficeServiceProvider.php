@@ -3,7 +3,7 @@
 use Cartalyst\Support\ServiceProvider;
 use Illuminate\Foundation\AliasLoader;
 
-class SyncServiceProvider extends ServiceProvider {
+class OfficeServiceProvider extends ServiceProvider {
 
     /**
      * {@inheritDoc}
