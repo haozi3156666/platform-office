@@ -1,4 +1,4 @@
-<?php namespace Sanatorium\Sync\Providers;
+<?php namespace Sanatorium\Office\Providers;
 
 use Cartalyst\Support\ServiceProvider;
 use Illuminate\Foundation\AliasLoader;
