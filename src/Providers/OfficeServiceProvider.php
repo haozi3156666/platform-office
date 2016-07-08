@@ -55,7 +55,7 @@ class OfficeServiceProvider extends ServiceProvider {
 
         if ( class_exists('Barryvdh\DomPDF\Facade') )
         {
-            AliasLoader::getInstance()->alias('Excel', 'Barryvdh\DomPDF\Facade');
+            AliasLoader::getInstance()->alias('PDF', 'Barryvdh\DomPDF\Facade');
         }
     }
 
